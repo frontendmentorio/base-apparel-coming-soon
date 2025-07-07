@@ -13,12 +13,12 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Desaturated Red: hsl(0, 36%, 70%)
-- Soft Red: hsl(0, 93%, 68%)
+- Pink 400: hsl(0, 36%, 70%)
+- Red 500: hsl(0, 93%, 68%)
 
 ### Neutral
 
-- Dark Grayish Red: hsl(0, 6%, 24%)
+- Gray 900: hsl(0, 6%, 24%)
 
 ### Gradients
 
